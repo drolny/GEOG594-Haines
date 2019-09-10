@@ -5,7 +5,7 @@ This repository was created to fulfill the requirements for *Web Exercise 1: Int
 
 Name: Karen Haines
 
-Information about the Fall 2019 **Big Data Science and Analytics Platform** course offered at San Diego State University can be found [here](https://map.sdsu.edu/bigdata/).
+Information about the **Big Data Science and Analytics Platform** course offered at San Diego State University for the Fall 2019 semester can be found [here](https://map.sdsu.edu/bigdata/).
 
 ### My definition of Big Data
 <img src=https://github.com/drolny/GEOG594-Haines/blob/master/WhaleSharkLogo.png width=256>  
