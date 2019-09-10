@@ -1,9 +1,11 @@
 # GEOG594-Haines
+## Karen Haines
 ## Lab 1 - Geography 594
-This repository was created to complete *Web Exercise 1: Introduction of GitHub and Online Data Science Resources*
-### Karen Haines
-Follow [this link](https://map.sdsu.edu/bigdata/) to get information about 
-**Big Data Science and Analytics Platform** course offerred at San Diego State University.
+---
+This repository was created to fulfill the requirements for *Web Exercise 1: Introduction of GitHub and Online Data Science Resources*.
+
+Information about the Fall 2019 **Big Data Science and Analytics Platform** course offered at San Diego State University can be found [here](https://map.sdsu.edu/bigdata/).
 
 #### My definition of Big Data
-Big data is extremely large volumes of data that challenges standard methods of data processing.
+
+Big data is extremely large volumes of data that computationally, architectually challenge traditional methods and infrastructure used for data accessability, processing, analysis and visualization.
