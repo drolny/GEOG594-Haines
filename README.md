@@ -1,9 +1,10 @@
 # GEOG594-Haines
-Karen Haines
 
 Lab 1 - Geography 594
 ---
 This repository was created to fulfill the requirements for *Web Exercise 1: Introduction of GitHub and Online Data Science Resources*.
+
+Name: Karen Haines
 
 Information about the Fall 2019 **Big Data Science and Analytics Platform** course offered at San Diego State University can be found [here](https://map.sdsu.edu/bigdata/).
 
