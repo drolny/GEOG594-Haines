@@ -8,7 +8,7 @@ Name: Karen Haines
 Information about the **Big Data Science and Analytics Platform** course offered at San Diego State University for the Fall 2019 semester can be found [here](https://map.sdsu.edu/bigdata/).
 
 ### My definition of Big Data
-![WhaleSharkLogo](https://user-images.githubusercontent.com/42922579/64588829-61a07800-d358-11e9-966a-6941a9c0661b.png)
+![WhaleSharkLogoSmall](https://user-images.githubusercontent.com/42922579/64589692-91e91600-d35a-11e9-9ba3-ebe6345b7418.png)
 
 Big data is extremely large volumes of data that challenge traditional methods and infrastructure used for data accessability, processing, analysis and visualization.  
 
